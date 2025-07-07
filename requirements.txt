@@ -1,0 +1,6 @@
+opencv-python
+numpy
+fer==21.0.5
+moviepy
+tensorflow
+setuptools
